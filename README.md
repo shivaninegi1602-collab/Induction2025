@@ -1,6 +1,7 @@
 # ACTIVITY REPORT OF INDUCTION PROGRAM
 
 ## Day 1
+### July 31,2025
 My first day at Guru Nanak Dev Engineering College was a very good experience for me. First of all we went to college Gurdwara Sahib and there we started a new phase of our life with the blessings of God. After having our refreshments at the hostel, we went to the college auditorium for our induction program.
 
 After reaching the auditorium, we had a very warm and beautiful welcome. Then Harsimram Singh showed us that the students of GNDEC are shining all over the world as the college has provided a very good atmosphere to the students for developing new skills in them.
@@ -21,6 +22,7 @@ Then Dr. Kulwinder Singh Mann (Hod IT) gave us their best wishes and he wished t
 
 
 ## Day 2
+### August 01,2025
 First of all we had a English proficiency test and Maths proficiency tets in which we were aksed basic grammar and maths questions till class 12th.
 
 Then we went to the auditorium, there we were told about buddy4study platform. We were told about satya scholarship and its benefits. We were also guided how to login into buddy4study and  apply for this scholarship step by step. We were also told that buddy4study is a scholarship platform in which we can have different types of scholarships to study freely without ou financial problems.
@@ -28,10 +30,12 @@ Then we went to the auditorium, there we were told about buddy4study platform. W
 Then we were told about github and how to use it, how to make a repository and how to write in it.
 
 ## Day 3
+### August 02,2025
 In the auditorium, Dr. Jaswinder Singh showed us different experiments. It was one of the most interesting lectures. He told us the meaning of God. With different examples he showed us the impotance of matsh in our life. He told is that math is the base of science. Without maths our life has no meaning. Everything in our ife is related to maths. Also he performed different types of activities in front of us and made us understand different concepts. Also, he taught us how to count all the bones in our body. He told us about differnt persons who lived their life in such a way that they are motivation to us.
 
 Then there was an expert lecture by Dr. Priya Darshini Mam on Universal Human Values. She asked us about our basic goal in our life. We all came to a conclusion that the basic aspiration of everyone is continuity of happiness and prosperity. She asked us what we do to achieve our goal. She told us that only physical facility is not enough for humans to fulfil all their needs, we also need relations. She told us that right understanding is very important than physical facility and relationship. We should spend our time to develop our right understanding.
 ## Day 4
+### August 04,2025
 First of all Dr. Rajvir Kaur Mam took our chemistry lecture in the seminar hall. She told us that chemistry is related to our life we should not study it only as a subject bus we should relate it with our world and try to understand its applications in our daily life. She taught us about some basic conceps of chemistry and their usfulness in our daily life. She told us about our syallbus and exam pattern. She told us that creativity is very important in all of us, no matter in which field we are doing our work innovation is very important, we should share our new ideas with everyone. 
 
 Then we had a peer to peer session in which we we taught about basics in C++ programming language. We were taught about variables, data types and the syntax to write a basic code.
