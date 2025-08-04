@@ -9,6 +9,16 @@ Then we had a message from Sangam Arora (CSE Topper) of 2021-2025 batch. He told
 
 Then we were addressed by Arshpreet Singh (IT Topper) of 2021-2025 batch. He told us that in addition to our studies, we should work on our co-curricular activities and develop values such as team work, communication skills and many more in ourselves. 
 
+Then Dr. Harpreet Kaur Grewal (HoD Applied Sciences) welcomed us in the college with ther beautiful words.She told us that we should not only focus in placements and packages but also on the small steps such as passion and prayer. She told that our growth is associated with these small steps and each small step of ours leads to our success.
+
+Then Dr. Akshay Girdhar told us that our college journey is like a t-shaped graph. The horizontal axis represents our small steps in improving ourselves  and the vertical axis represents our growth. He advised us to ask questions from our teachers as well as from our seniors and learn from them.
+
+Then Prof. Harleen Kaur Grewal welcomed us in the college. She told us that with our dedication and hard work, we can do the things beyond our limits.
+
+Then our principal Dr. Sehijapal Singh welcomed us to GNDEC. He told us that engineering is related to our life. Every branch fo engineering is important in its own way. GNDEC is providing an atmosphere to the studnets to develop their skills ans prepare themselves for future needs. 
+
+Then Dr. Kulwinder Singh Mann (Hod IT) gave us their best wishes and he wished that when we will be leaving the the college, we all have achieved our dreams.
+
 
 ## Day 2
 First of all we had a English proficiency test and Maths proficiency tets in which we were aksed basic grammar and maths questions till class 12th.
