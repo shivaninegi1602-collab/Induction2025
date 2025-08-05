@@ -45,3 +45,11 @@ Then there was an expert lecture by **Dr. Priya Darshini Mam** in the auditorium
 Then the students of causmic club told is about this club and showed us their innovation and creativity. They told us about their events and their website.
 
 Then we were advised how to buy a laptop for our programming journey and which things we should keep in mind while buying a laptop. We were also shown different types of laptops according to our needs and budget.
+
+## Day 5
+### August05,2025
+In the morning, there was an English lecture by **Prof. Aastik Sir**. He took our introduction and sked us about our strengths and weaknesses and told us to write a personal letter. He advised us to improve mistakes in our grammar.
+
+After that, there was our maths lecture by **Prof. Rajbir Kaur Mam**. She asked us some basic questions about maths from class 12th syllabus and also cleared our doubts. She told us about the syllabus of maths.
+
+Then there was our Basic Electrical and Electronics Engineering lecture by **Prof. Ranvir Kaur Mam**. She told us the syllabus of BEEE. Then se taught us some basic concepts about electricity, voltages, current and also cleared our doubts related to these. Then she started teaching us the first unit of our syllabus.
