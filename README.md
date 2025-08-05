@@ -25,13 +25,13 @@ Then Dr. Kulwinder Singh Mann (Hod IT) gave us their best wishes and he wished t
 ### August 01,2025
 First of all we had a English proficiency test and Maths proficiency tets in which we were aksed basic grammar and maths questions till class 12th.
 
-Then we went to the auditorium, there we were told about buddy4study platform. We were told about satya scholarship and its benefits. We were also guided how to login into buddy4study and  apply for this scholarship step by step. We were also told that buddy4study is a scholarship platform in which we can have different types of scholarships to study freely without ou financial problems.
+Then we went to the auditorium, there we were told about buddy4study platform. We were told about satya scholarship and its benefits. We were also guided how to login into buddy4study and  apply for this scholarship step by step. We were also told that buddy4study is a scholarship platform in which we can have different types of scholarships to study freely without our financial problems.
 
 Then we were told about github and how to use it, how to make a repository and how to write in it.
 
 ## Day 3
 ### August 02,2025
-In the auditorium, Dr. Jaswinder Singh showed us different experiments. It was one of the most interesting lectures. He told us the meaning of God. With different examples he showed us the impotance of matsh in our life. He told is that math is the base of science. Without maths our life has no meaning. Everything in our ife is related to maths. Also he performed different types of activities in front of us and made us understand different concepts. Also, he taught us how to count all the bones in our body. He told us about differnt persons who lived their life in such a way that they are motivation to us.
+In the auditorium, *Dr. Jaswinder Singh* showed us different experiments. It was one of the most interesting lectures. He told us the meaning of God. With different examples he showed us the impotance of matsh in our life. He told is that math is the base of science. Without maths our life has no meaning. Everything in our ife is related to maths. Also he performed different types of activities in front of us and made us understand different concepts. Also, he taught us how to count all the bones in our body. He told us about differnt persons who lived their life in such a way that they are motivation to us.
 
 Then there was an expert lecture by Dr. Priya Darshini Mam on Universal Human Values. She asked us about our basic goal in our life. We all came to a conclusion that the basic aspiration of everyone is continuity of happiness and prosperity. She asked us what we do to achieve our goal. She told us that only physical facility is not enough for humans to fulfil all their needs, we also need relations. She told us that right understanding is very important than physical facility and relationship. We should spend our time to develop our right understanding.
 ## Day 4
