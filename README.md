@@ -41,25 +41,27 @@ Following this, we attended an expert lecture on Universal Human Values by Dr. P
 
 She guided us to reflect on how we pursue these goals, explaining that physical facilities alone cannot fulfill all human needs—relationships and a sense of connection are equally vital. She stressed that right understanding is even more important than material possessions or relationships, and that we should dedicate time to developing this understanding to lead a truly fulfilling life.
 
-## Day 4
-### August 04,2025
-First of all **Dr. Rajvir Kaur Mam** took our chemistry lecture in the seminar hall. She told us that chemistry is related to our life we should not study it only as a subject bus we should relate it with our world and try to understand its applications in our daily life. She taught us about some basic conceps of chemistry and their usfulness in our daily life. She told us about our syallbus and exam pattern. She told us that creativity is very important in all of us, no matter in which field we are doing our work innovation is very important, we should share our new ideas with everyone. 
+## Day 4 
+### August 4, 2025
+The day began with an engaging Chemistry lecture by Dr. Rajvir Kaur Ma’am in the seminar hall. She encouraged us to see chemistry not merely as an academic subject, but as something deeply connected to our daily lives. Through simple yet impactful examples, she explained how basic concepts of chemistry have practical applications all around us. She also outlined our syllabus and examination pattern.
 
-Then we had a peer to peer session in which we we taught about basics in C++ programming language. We were taught about variables, data types and the syntax to write a basic code.
+Dr. Rajvir Ma’am reminded us that creativity and innovation are vital, no matter the field we choose. She urged us to share our ideas openly, as innovation grows when minds connect.
 
-Then there was an expert lecture by **Dr. Priya Darshini Mam** in the auditorium on Universal Human Values. She told us that our self and our body are two different things. We can never have a continuous state of happiness by doing something only for the pleasure of our body. She told us the difference between excitement and happiness.She told us that we should do things on the basis of natural acceptance. We should have a complete control on our emotions and we should do everything for the nurture of our body and not for its destruction. She told us what life is and what should be the ultimate goal of our life.
+Next, we attended a peer-to-peer session on the basics of C++ programming. We learned about variables, data types, and the syntax needed to write simple programs—laying the foundation for our journey in coding.
 
-Then the students of causmic club told is about this club and showed us their innovation and creativity. They told us about their events and their website.
+After that, Dr. Priya Darshini Ma’am delivered another enlightening lecture on Universal Human Values. She explained that our self and our body are two distinct entities, and that true, lasting happiness cannot be achieved by pursuing only bodily pleasures. She highlighted the difference between excitement and genuine happiness, and spoke about acting according to our natural acceptance—making choices that nurture rather than harm our body and mind. She concluded with thought-provoking insights into the true meaning and ultimate purpose of life.
 
-Then we were advised how to buy a laptop for our programming journey and which things we should keep in mind while buying a laptop. We were also shown different types of laptops according to our needs and budget.
+Later, the Cosmic Club members introduced us to their work, showcasing their innovations, creative projects, and events. They also guided us to explore their website for more information.
 
-## Day 5
-### August05,2025
-In the morning, there was an English lecture by **Prof. Aastik Sir**. He took our introduction and sked us about our strengths and weaknesses and told us to write a personal letter. He advised us to improve mistakes in our grammar.
+The day ended with practical advice on buying a laptop for our programming journey. We were shown different models, explained their features, and guided on choosing the right one according to our needs and budget.
 
-After that, there was our maths lecture by **Prof. Rajbir Kaur Mam**. She asked us some basic questions about maths from class 12th syllabus and also cleared our doubts. She told us about the syllabus of maths.
+## Day 5 
+### August 5, 2025
+The morning started with an English lecture by Prof. Aastik Sir. He made the session interactive by taking our introductions and asking about our strengths and weaknesses. He encouraged us to write a personal letter and guided us on improving our grammar by identifying and correcting our mistakes.
 
-Then there was our Basic Electrical and Electronics Engineering lecture by **Prof. Ranvir Kaur Mam**. She told us the syllabus of BEEE. Then se taught us some basic concepts about electricity, voltages, current and also cleared our doubts related to these. Then she started teaching us the first unit of our syllabus.
+Following this, we had a Mathematics lecture by Prof. Rajvir Kaur Ma’am. She asked questions from our Class 12 syllabus, clarified our doubts, and gave us an overview of the mathematics syllabus for the semester.
+
+The next session was Basic Electrical and Electronics Engineering (BEEE) with Prof. Ranvir Kaur Ma’am. She explained the syllabus, introduced fundamental concepts like electricity, voltage, and current, and patiently addressed our questions. She then began teaching us the first unit of the syllabus, setting the stage for our learning in this subject.
 
 ## Day 7
 ### August 07,2025
