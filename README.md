@@ -24,17 +24,23 @@ Leaving the auditorium that day, I felt an overwhelming sense of pride, gratitud
 
 ## Day 2
 ### August 01,2025
-First of all we had a English proficiency test and Maths proficiency tets in which we were aksed basic grammar and maths questions till class 12th.
 
-Then we went to the auditorium, there we were told about buddy4study platform. We were told about satya scholarship and its benefits. We were also guided how to login into buddy4study and  apply for this scholarship step by step. We were also told that buddy4study is a scholarship platform in which we can have different types of scholarships to study freely without our financial problems.
+The day began with English and Mathematics Proficiency Tests, where we answered basic grammar and mathematics questions up to the Class 12 level. It felt like a gentle yet engaging way to revisit our foundations.
 
-Then we were told about github and how to use it, how to make a repository and how to write in it.
+Afterwards, we gathered in the auditorium for an introduction to the Buddy4Study platform. We learned about the Satya Scholarship, its benefits, and how it could support students in pursuing their education without financial worries. Step-by-step, we were guided through the process of logging into the platform and applying for scholarships. It was heartening to know that such opportunities exist to ensure that no student’s learning is hindered by financial constraints.
 
-## Day 3
-### August 02,2025
-In the auditorium, **Dr. Jaswinder Singh** showed us different experiments. It was one of the most interesting lectures. He told us the meaning of God. With different examples he showed us the impotance of matsh in our life. He told is that math is the base of science. Without maths our life has no meaning. Everything in our ife is related to maths. Also he performed different types of activities in front of us and made us understand different concepts. Also, he taught us how to count all the bones in our body. He told us about differnt persons who lived their life in such a way that they are motivation to us.
+Later, we were introduced to GitHub, an essential tool for programmers. We learned how to create repositories, write and manage content, and use the platform effectively—marking the beginning of our journey into collaborative coding and project development.
 
-Then there was an expert lecture by **Dr. Priya Darshini Mam** on Universal Human Values. She asked us about our basic goal in our life. We all came to a conclusion that the basic aspiration of everyone is continuity of happiness and prosperity. She asked us what we do to achieve our goal. She told us that only physical facility is not enough for humans to fulfil all their needs, we also need relations. She told us that right understanding is very important than physical facility and relationship. We should spend our time to develop our right understanding.
+## Day 3 
+### August 2, 2025
+The day opened with one of the most fascinating lectures so far. In the auditorium, Dr. Jaswinder Singh demonstrated a series of intriguing experiments while weaving deep life lessons into his talk. He spoke about the meaning of God and, through various examples, emphasized the importance of mathematics in our lives. He explained that mathematics forms the foundation of all sciences and that every aspect of life is connected to it.
+
+Through fun activities, he helped us understand complex concepts and even taught us how to count all the bones in the human body. He also shared inspiring stories of people whose lives continue to serve as motivation for others.
+
+Following this, we attended an expert lecture on Universal Human Values by Dr. Priya Darshini Ma’am. She began by asking us about our ultimate goal in life. Together, we agreed that the core aspiration for every human being is the continuity of happiness and prosperity.
+
+She guided us to reflect on how we pursue these goals, explaining that physical facilities alone cannot fulfill all human needs—relationships and a sense of connection are equally vital. She stressed that right understanding is even more important than material possessions or relationships, and that we should dedicate time to developing this understanding to lead a truly fulfilling life.
+
 ## Day 4
 ### August 04,2025
 First of all **Dr. Rajvir Kaur Mam** took our chemistry lecture in the seminar hall. She told us that chemistry is related to our life we should not study it only as a subject bus we should relate it with our world and try to understand its applications in our daily life. She taught us about some basic conceps of chemistry and their usfulness in our daily life. She told us about our syallbus and exam pattern. She told us that creativity is very important in all of us, no matter in which field we are doing our work innovation is very important, we should share our new ideas with everyone. 
