@@ -4,22 +4,23 @@
 ### July 31,2025
 My first day at Guru Nanak Dev Engineering College was a very good experience for me. First of all we went to college Gurdwara Sahib and there we started a new phase of our life with the blessings of God. After having our refreshments at the hostel, we went to the college auditorium for our induction program.
 
-After reaching the auditorium, we had a very warm and beautiful welcome. Then Harsimram Singh showed us that the students of GNDEC are shining all over the world as the college has provided a very good atmosphere to the students for developing new skills in them.
+Upon reaching the auditorium, we received a warm and heartfelt welcome. Mr. Harsimram Singh proudly shared how GNDEC students are excelling across the globe, thanks to the college’s nurturing environment that encourages skill development and innovation.
 
-Then we had a message from **Sangam Arora** (CSE Topper) of 2021-2025 batch. He told us to explore our college life not only inside the classrooms but also outside it and make our college journey fruitful by enhancing our skills. He advised us to start preparing for our dreams and doing efforts for them from the first day of our college.
+We were then inspired by a message from Sangam Arora, the CSE Topper of the 2021–2025 batch. He encouraged us to make the most of our college life, not just in classrooms but also through extracurricular experiences. His words reminded us to start working toward our dreams from the very first day.
 
-Then we were addressed by **Arshpreet Singh** (IT Topper) of 2021-2025 batch. He told us that in addition to our studies, we should work on our co-curricular activities and develop values such as team work, communication skills and many more in ourselves. 
+Next, Arshpreet Singh, the IT Topper of the 2021–2025 batch, addressed us. He emphasized the importance of balancing academics with co-curricular activities, and of cultivating skills such as teamwork, communication, and leadership to prepare ourselves for the professional world.
 
-Then **Dr. Harpreet Kaur Grewal** (HoD Applied Sciences) welcomed us in the college with ther beautiful words.She told us that we should not only focus in placements and packages but also on the small steps such as passion and prayer. She told that our growth is associated with these small steps and each small step of ours leads to our success.
+Dr. Harpreet Kaur Grewal (HoD, Applied Sciences) then welcomed us with her inspiring words. She beautifully explained that success isn’t just about high placements and big packages—it’s built step by step through passion, prayer, and persistence.
 
-Then **Dr. Akshay Girdhar** told us that our college journey is like a t-shaped graph. The horizontal axis represents our small steps in improving ourselves  and the vertical axis represents our growth. He advised us to ask questions from our teachers as well as from our seniors and learn from them.
+Following her, Dr. Akshay Girdhar likened our college journey to a T-shaped graph—the horizontal axis representing the small, consistent steps we take to improve ourselves, and the vertical axis representing our growth. He urged us to ask questions, learn from our teachers and seniors, and never hesitate to seek guidance.
 
-Then **Prof. Harleen Kaur Grewal** welcomed us in the college. She told us that with our dedication and hard work, we can do the things beyond our limits.
+Prof. Harleen Kaur Grewal encouraged us to believe in ourselves, assuring us that with dedication and hard work, we can surpass even our own limits.
 
-Then our principal **Dr. Sehijapal Singh** welcomed us to GNDEC. He told us that engineering is related to our life. Every branch fo engineering is important in its own way. GNDEC is providing an atmosphere to the studnets to develop their skills ans prepare themselves for future needs. 
+Finally, our Principal, Dr. Sehijpal Singh, welcomed us to GNDEC. He reminded us that engineering is deeply connected to everyday life, with every branch holding its own significance. He assured us that GNDEC offers the perfect environment to develop our skills and prepare for future challenges.
 
-Then **Dr. Kulwinder Singh Mann** (Hod IT) gave us their best wishes and he wished that when we will be leaving the the college, we all have achieved our dreams.
+ After this, Dr. Kulwinder Singh Mann (HoD, IT) offered his heartfelt wishes. He expressed his hope that when we leave GNDEC, each of us will have achieved our dreams.
 
+Leaving the auditorium that day, I felt an overwhelming sense of pride, gratitude, and excitement. It was clear to me that GNDEC is not just a college—it’s a place that shapes dreams into reality.
 
 ## Day 2
 ### August 01,2025
