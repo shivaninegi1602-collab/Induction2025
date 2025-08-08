@@ -53,3 +53,16 @@ In the morning, there was an English lecture by **Prof. Aastik Sir**. He took ou
 After that, there was our maths lecture by **Prof. Rajbir Kaur Mam**. She asked us some basic questions about maths from class 12th syllabus and also cleared our doubts. She told us about the syllabus of maths.
 
 Then there was our Basic Electrical and Electronics Engineering lecture by **Prof. Ranvir Kaur Mam**. She told us the syllabus of BEEE. Then se taught us some basic concepts about electricity, voltages, current and also cleared our doubts related to these. Then she started teaching us the first unit of our syllabus.
+
+## Day 7
+### August 07,2025
+The morning began with an enlightening lecture by Dr. Amit Kamra Sir in the auditorium, introducing us to the Digital Marketing Club. He not only explained the purpose and activities of the club but also inspired us to explore the endless opportunities it offers.
+Following this, we had a truly motivating session with Dr. Parminder Singh Sir, who shared a powerful life lesson:
+>“There may be some substitute for      talent, but there is no substitute      for hard work.”
+>
+His words resonated deeply with us, reminding us that dedication and perseverance will always lead us to success.
+Next, Dr. Randhir Singh Sir addressed us about the examination system of the college. He explained every detail with such clarity that we felt confident and well-informed about how our academic journey here will be assessed.
+After the break, we attended a lively chemistry lecture by Rajvir Kaur Ma’am. She encouraged us to explore online courses and platforms to enhance our skills and guided us on the benefits of building a strong LinkedIn profile. She inspired us not to fear chemistry but to embrace it by understanding its real-life applications in our daily activities.
+The day concluded with an interactive peer-to-peer session on C++ programming. We learned several new concepts and enjoyed the engaging teaching style. Our seniors were exceptionally kind, cooperative, and also vey keen in sharing their knowledge with us, making us feel warmly welcomed into the college community.
+
+
