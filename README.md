@@ -51,7 +51,7 @@ Next, we attended a peer-to-peer session on the basics of C++ programming. We le
 
 After that, Dr. Priya Darshini Ma’am delivered another enlightening lecture on Universal Human Values. She explained that our self and our body are two distinct entities, and that true, lasting happiness cannot be achieved by pursuing only bodily pleasures. She highlighted the difference between excitement and genuine happiness, and spoke about acting according to our natural acceptance—making choices that nurture rather than harm our body and mind. She concluded with thought-provoking insights into the true meaning and ultimate purpose of life.
 
-Later, the Cosmic Club members introduced us to their work, showcasing their innovations, creative projects, and events. They also guided us to explore their website for more information.
+Later, the Causmic Club members introduced us to their work, showcasing their innovations, creative projects, and events. They also guided us to explore their website for more information.
 
 The day ended with practical advice on buying a laptop for our programming journey. We were shown different models, explained their features, and guided on choosing the right one according to our needs and budget.
 
