@@ -1,7 +1,6 @@
 # ACTIVITY REPORT OF INDUCTION PROGRAM
 
-## Day 1
-### July 31,2025
+## Day 1 - July 31,2025
 My first day at Guru Nanak Dev Engineering College was a very good experience for me. First of all we went to college Gurdwara Sahib and there we started a new phase of our life with the blessings of God. After having our refreshments at the hostel, we went to the college auditorium for our induction program.
 
 Upon reaching the auditorium, we received a warm and heartfelt welcome. Mr. Harsimram Singh proudly shared how GNDEC students are excelling across the globe, thanks to the college’s nurturing environment that encourages skill development and innovation.
@@ -22,8 +21,7 @@ Finally, our Principal, Dr. Sehijpal Singh, welcomed us to GNDEC. He reminded us
 
 Leaving the auditorium that day, I felt an overwhelming sense of pride, gratitude, and excitement. It was clear to me that GNDEC is not just a college—it’s a place that shapes dreams into reality.
 
-## Day 2
-### August 01,2025
+## Day 2 - August 01,2025
 
 The day began with English and Mathematics Proficiency Tests, where we answered basic grammar and mathematics questions up to the Class 12 level. It felt like a gentle yet engaging way to revisit our foundations.
 
@@ -31,8 +29,7 @@ Afterwards, we gathered in the auditorium for an introduction to the Buddy4Study
 
 Later, we were introduced to GitHub, an essential tool for programmers. We learned how to create repositories, write and manage content, and use the platform effectively—marking the beginning of our journey into collaborative coding and project development.
 
-## Day 3 
-### August 2, 2025
+## Day 3 - August 2, 2025
 The day opened with one of the most fascinating lectures so far. In the auditorium, Dr. Jaswinder Singh demonstrated a series of intriguing experiments while weaving deep life lessons into his talk. He spoke about the meaning of God and, through various examples, emphasized the importance of mathematics in our lives. He explained that mathematics forms the foundation of all sciences and that every aspect of life is connected to it.
 
 Through fun activities, he helped us understand complex concepts and even taught us how to count all the bones in the human body. He also shared inspiring stories of people whose lives continue to serve as motivation for others.
@@ -41,8 +38,7 @@ Following this, we attended an expert lecture on Universal Human Values by Dr. P
 
 She guided us to reflect on how we pursue these goals, explaining that physical facilities alone cannot fulfill all human needs—relationships and a sense of connection are equally vital. She stressed that right understanding is even more important than material possessions or relationships, and that we should dedicate time to developing this understanding to lead a truly fulfilling life.
 
-## Day 4 
-### August 4, 2025
+## Day 4 - August 4, 2025
 The day began with an engaging Chemistry lecture by Dr. Rajvir Kaur Ma’am in the seminar hall. She encouraged us to see chemistry not merely as an academic subject, but as something deeply connected to our daily lives. Through simple yet impactful examples, she explained how basic concepts of chemistry have practical applications all around us. She also outlined our syllabus and examination pattern.
 
 Dr. Rajvir Ma’am reminded us that creativity and innovation are vital, no matter the field we choose. She urged us to share our ideas openly, as innovation grows when minds connect.
@@ -55,16 +51,25 @@ Later, the Causmic Club members introduced us to their work, showcasing their in
 
 The day ended with practical advice on buying a laptop for our programming journey. We were shown different models, explained their features, and guided on choosing the right one according to our needs and budget.
 
-## Day 5 
-### August 5, 2025
+## Day 5 - August 5, 2025
 The morning started with an English lecture by Prof. Aastik Sir. He made the session interactive by taking our introductions and asking about our strengths and weaknesses. He encouraged us to write a personal letter and guided us on improving our grammar by identifying and correcting our mistakes.
 
 Following this, we had a Mathematics lecture by Prof. Rajvir Kaur Ma’am. She asked questions from our Class 12 syllabus, clarified our doubts, and gave us an overview of the mathematics syllabus for the semester.
 
 The next session was Basic Electrical and Electronics Engineering (BEEE) with Prof. Ranvir Kaur Ma’am. She explained the syllabus, introduced fundamental concepts like electricity, voltage, and current, and patiently addressed our questions. She then began teaching us the first unit of the syllabus, setting the stage for our learning in this subject.
 
-## Day 7
-### August 07,2025
+## Day 6 – August 6, 2025
+The day began with our Basic Electrical and Electronics Engineering (BEEE) lecture by Prof. Ranvir Kaur Ma’am. She continued with the topics from the first unit, guiding us through each concept with clarity. She also shared details about the recommended books and syllabus, and we diligently took notes to capture her explanations for future reference.
+
+Next, we had a peer-to-peer session where our seniors taught us more advanced concepts in C++ programming. They patiently helped us identify and correct errors in our code, making the learning process smoother and more enjoyable.
+
+After the break, Dr. Lakhvir Singh Khana Sir introduced us to the Centre for Multi-Faceted Learning, explaining the registration process, its benefits, and how it can help us develop skills beyond academics.
+
+He also guided us about the SWAYAM platform—a government initiative offering free online courses from top institutions. He encouraged us to enroll in at least one course, assuring us that it would prove highly beneficial for our future growth and career development.
+
+
+
+## Day 7 - August 07,2025
 The morning began with an enlightening lecture by Dr. Amit Kamra Sir in the auditorium, introducing us to the Digital Marketing Club. He not only explained the purpose and activities of the club but also inspired us to explore the endless opportunities it offers.
 
 Following this, we had a truly motivating session with Dr. Parminder Singh Sir, who shared a powerful life lesson:
