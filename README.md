@@ -1,4 +1,4 @@
-# REPORT OF INDUCTION PROGRAM
+# ACTIVITY REPORT OF INDUCTION PROGRAM
 
 ## Day 1 - July 31,2025
 My first day at Guru Nanak Dev Engineering College was a very good experience for me. First of all we went to college Gurdwara Sahib and there we started a new chapter of our life with the blessings of God. After having refreshments, we went to the college auditorium for our induction program.
