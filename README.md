@@ -3,7 +3,7 @@
 ## Day 1 - July 31,2025
 My first day at Guru Nanak Dev Engineering College was a very good experience for me. First of all we went to college Gurdwara Sahib and there we started a new chapter of our life with the blessings of God. After having refreshments, we went to the college auditorium for our induction program.
 
-Upon reaching the auditorium, we received a warm and heartfelt welcome. Mr. Harsimram Singh shared how GNDEC students are excelling across the globe, thanks to the college’s nurturing environment that encourages skill development and innovation.
+Upon reaching the auditorium, we received a warm and heartfelt welcome. Harsimram Singh shared how GNDEC students are excelling across the globe, thanks to the college’s nurturing environment that encourages skill development and innovation.
 
 We were then inspired by a message from Sangam Arora, the CSE Topper of the 2021–2025 batch. He encouraged us to make the most of our college life, not just in classrooms but also through extracurricular experiences. His words reminded us to start working toward our dreams from the very first day.
 
@@ -85,4 +85,8 @@ After the break, we attended a lively chemistry lecture by Rajvir Kaur Ma’am. 
 
 The day concluded with an interactive peer-to-peer session on C++ programming. We learned several new concepts and enjoyed the engaging teaching style. Our seniors were exceptionally kind, cooperative and also vey keen in sharing their knowledge with us, making us feel warmly welcomed into the college community.
 
+## Day 8 – August 8, 2025
+The day began with the formation of our ID cards.
+
+Afterwards, we proceeded to our classrooms, where Dr. Randhir Sir conducted our Maths lecture. He introduced the concept of partial differentiation, explaining its importance with a clear and practical example.
 
