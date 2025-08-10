@@ -45,27 +45,27 @@ The day began with an engaging Chemistry lecture by Dr. Rajvir Kaur Ma’am in t
 
 Dr. Rajvir Ma’am reminded us that creativity and innovation are vital, no matter the field we choose. She urged us to share our ideas openly, as innovation grows when minds connect.
 
-Next, we attended a peer-to-peer session on the basics of C++ programming. We learned about variables, data types, and the syntax needed to write simple programs—laying the foundation for our journey in coding.
+Next, we attended a peer-to-peer session on the basics of C++ programming. We learned about variables, data type and the syntax needed to write simple programs—laying the foundation for our journey in coding.
 
 After that, Dr. Priya Darshini Ma’am delivered another enlightening lecture on Universal Human Values. She explained that our self and our body are two distinct entities, and that true, lasting happiness cannot be achieved by pursuing only bodily pleasures. She highlighted the difference between excitement and genuine happiness, and spoke about acting according to our natural acceptance—making choices that nurture rather than harm our body and mind. She concluded with thought-provoking insights into the true meaning and ultimate purpose of life.
 
-Later, the Causmic Club members introduced us to their work, showcasing their innovations, creative projects, and events. They also guided us to explore their website for more information.
+Later, the Causmic Club members introduced us to their work, showcasing their innovations, creative projects and events. They also guided us to explore their website for more information.
 
-The day ended with practical advice on buying a laptop for our programming journey. We were shown different models, explained their features, and guided on choosing the right one according to our needs and budget.
+The day ended with practical advice on buying a laptop for our programming journey. We were shown different models, explained their features and guided on choosing the right one according to our needs and budget.
 
 ## Day 5 - August 5, 2025
 The morning started with an English lecture by Prof. Aastik Sir. He made the session interactive by taking our introductions and asking about our strengths and weaknesses. He encouraged us to write a personal letter and guided us on improving our grammar by identifying and correcting our mistakes.
 
-Following this, we had a Mathematics lecture by Prof. Rajvir Kaur Ma’am. She asked questions from our Class 12 syllabus, clarified our doubts, and gave us an overview of the mathematics syllabus for the semester.
+Following this, we had a Mathematics lecture by Prof. Rajbir Kaur Ma’am. She asked questions from our Class 12 syllabus, clarified our doubts, and gave us an overview of the mathematics syllabus for the semester.
 
 The next session was Basic Electrical and Electronics Engineering (BEEE) with Prof. Ranvir Kaur Ma’am. She explained the syllabus, introduced fundamental concepts like electricity, voltage, and current, and patiently addressed our questions. She then began teaching us the first unit of the syllabus, setting the stage for our learning in this subject.
 
 ## Day 6 – August 6, 2025
-The day began with our Basic Electrical and Electronics Engineering (BEEE) lecture by Prof. Ranvir Kaur Ma’am. She continued with the topics from the first unit, guiding us through each concept with clarity. She also shared details about the recommended books and syllabus, and we diligently took notes to capture her explanations for future reference.
+The day began with our Basic Electrical and Electronics Engineering (BEEE) lecture by Prof. Ranvir Kaur Ma’am. She continued with the topics from the first unit, guiding us through each concept with clarity. She also shared details about the recommended books and syllabus and we diligently took notes to capture her explanations for future reference.
 
 Next, we had a peer-to-peer session where our seniors taught us more advanced concepts in C++ programming. They patiently helped us identify and correct errors in our code, making the learning process smoother and more enjoyable.
 
-After the break, Dr. Lakhvir Singh Khana Sir introduced us to the Centre for Multi-Faceted Learning, explaining the registration process, its benefits, and how it can help us develop skills beyond academics.
+After the break, Dr. Lakhvir Singh Khana Sir introduced us to the Centre for Multi-Faceted Learning, explaining the registration process, its benefits and how it can help us develop skills beyond academics.
 
 He also guided us about the SWAYAM platform—a government initiative offering free online courses from top institutions. He encouraged us to enroll in at least one course, assuring us that it would prove highly beneficial for our future growth and career development.
 
@@ -83,6 +83,6 @@ Next, Dr. Randhir Singh Sir addressed us about the examination system of the col
 
 After the break, we attended a lively chemistry lecture by Rajvir Kaur Ma’am. She encouraged us to explore online courses and platforms to enhance our skills and guided us on the benefits of building a strong LinkedIn profile. She inspired us not to fear chemistry but to embrace it by understanding its real-life applications in our daily activities.
 
-The day concluded with an interactive peer-to-peer session on C++ programming. We learned several new concepts and enjoyed the engaging teaching style. Our seniors were exceptionally kind, cooperative, and also vey keen in sharing their knowledge with us, making us feel warmly welcomed into the college community.
+The day concluded with an interactive peer-to-peer session on C++ programming. We learned several new concepts and enjoyed the engaging teaching style. Our seniors were exceptionally kind, cooperative and also vey keen in sharing their knowledge with us, making us feel warmly welcomed into the college community.
 
 
