@@ -90,3 +90,5 @@ The day began with the formation of our ID cards.
 
 Afterwards, we proceeded to our classrooms, where Dr. Randhir Sir conducted our Maths lecture. He introduced the concept of partial differentiation, explaining its importance with a clear and practical example.
 
+## Conclusion ( Day 1 to Day 8)
+These first eight days have been a journey of growth, inspiration and new beginnings. Every lecture, interaction, and shared experience has opened doors to knowledge while shaping values and confidence. Surrounded by guidance, encouragement and opportunities. I feel a deep sense of gratitude and excitement for the path ahead. This is not just the start of an academic journey—it is the foundation of a future full of purpose and possibility.
