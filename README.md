@@ -9,19 +9,19 @@ We were then inspired by a message from Sangam Arora, the CSE Topper of the 2021
 
 Next, Arshpreet Singh, the IT Topper of the 2021–2025 batch, addressed us. He shared the importance of balancing academics with co-curricular activities and of cultivating skills such as teamwork, communication, and leadership to prepare ourselves for the professional world.
 
-Dr. Harpreet Kaur Grewal Ma'am (HoD, Applied Sciences) then welcomed us with her inspiring words. She beautifully explained that success isn’t just about high placements and big packages—it’s built step by step through passion, prayer and persistence.
+Dr. Harpreet Kaur Grewal Ma'am (HoD, Applied Sciences) then welcomed us with her inspiring words. She beautifully explained that success isn’t just about high placements and big packages, it’s built step by step through passion, prayer and persistence.
 
-Following her, Dr. Akshay Girdhar Sir linked our college journey to a T-shaped graph—the horizontal axis representing the small, consistent steps we take to improve ourselves, and the vertical axis representing our growth. He advised us to ask questions, learn from our teachers and seniors, and never hesitate to seek guidance.
+Following her, Dr. Akshay Girdhar Sir linked our college journey to a T-shaped graph; the horizontal axis representing the small, consistent steps we take to improve ourselves, and the vertical axis representing our growth. He advised us to ask questions, learn from our teachers and seniors, and never hesitate to seek guidance.
 
 Prof. Harleen Kaur Grewal Ma'am encouraged us to believe in ourselves, assuring us that with dedication and hard work, we can surpass even our own limits.
 
-Finally, our Principal, Dr. Sehijpal Singh Sir, welcomed us to GNDEC. He reminded us that engineering is deeply connected to everyday life, with every branch holding its own significance. He assured us that GNDEC offers the perfect environment to develop our skills and prepare for future challenges.
+Finally our Principal, Dr. Sehijpal Singh Sir, welcomed us to GNDEC. He reminded us that engineering is deeply connected to everyday life, with every branch holding its own significance. He assured us that GNDEC offers the perfect environment to develop our skills and prepare for future challenges.
 
 After this, Dr. Kulwinder Singh Mann Sir (HoD, IT) offered his heartfelt wishes. He expressed his hope that when we leave GNDEC, each of us will have achieved our dreams.
 
 Then we were taken for orientation to our departments and we were shown libraries, labs and our classrooms.
 
-Leaving the college that day, I felt an overwhelming sense of pride, gratitude and excitement. It was clear to me that GNDEC is not just a college—it’s a place that shapes dreams into reality.
+Leaving the college that day, I felt an overwhelming sense of pride, gratitude and excitement. It was clear to me that GNDEC is not just a college, it’s a place that shapes dreams into reality.
 
 ## Day 2 - August 01,2025
 
@@ -29,7 +29,7 @@ The day began with English and Mathematics Proficiency Tests, where we answered 
 
 Afterwards, we gathered in the auditorium for an introduction to the Buddy4Study platform. We learned about the Satya Scholarship, its benefits, and how it could support students in pursuing their education without financial worries. Step-by-step, we were guided through the process of logging into the platform and applying for scholarships. It was heartening to know that such opportunities exist to ensure that no student’s learning is hindered by financial constraints.
 
-Later, we were introduced to GitHub, an essential tool for programmers. We learned how to create repositories, write and manage content, and use the platform effectively—marking the beginning of our journey into coding.
+Later, we were introduced to GitHub, an essential tool for programmers. We learned how to create repositories, write and manage content, and use the platform effectively, marking the beginning of our journey into coding.
 
 ## Day 3 - August 2, 2025
 The day opened with one of the most interesting lectures so far. In the auditorium, Dr. Jaswinder Singh demonstrated a series of interesting experiments while sharing deep life lessons in his talk. He spoke about the meaning of God and through various examples, showed the importance of mathematics in our lives. He explained that mathematics forms the foundation of all sciences and that every aspect of life is connected to it.
@@ -38,16 +38,16 @@ Through fun activities, he helped us understand complex concepts and even taught
 
 Following this, we attended an expert lecture on Universal Human Values by Dr. Priya Darshini Ma’am. She began by asking us about our ultimate goal in life. Together, we agreed that the core aspiration for every human being is the continuity of happiness and prosperity.
 
-She guided us to reflect on how we pursue these goals, explaining that physical facilities alone cannot fulfill all human needs—relationships and right understanding are equally important. She stressed that right understanding is even more important than material possessions or relationships and that we should dedicate time to developing this understanding to lead a truly fulfilling life.
+She guided us to reflect on how we pursue these goals, explaining that physical facilities alone cannot fulfill all human needs but relationships and right understanding are equally important. She stressed that right understanding is even more important than material possessions or relationships and that we should dedicate time to developing this understanding to lead a truly fulfilling life.
 
 ## Day 4 - August 4, 2025
 The day began with an engaging Chemistry lecture by Dr. Rajvir Kaur Ma’am in the seminar hall. She encouraged us to see chemistry not merely as an academic subject, but as something deeply connected to our daily lives. Through simple yet impactful examples, she explained how basic concepts of chemistry have practical applications all around us. She also outlined our syllabus and examination pattern.
 
 Dr. Rajvir Ma’am reminded us that creativity and innovation are vital, no matter the field we choose. She urged us to share our ideas openly, as innovation grows when minds connect.
 
-Next, we attended a peer-to-peer session on the basics of C++ programming. We learned about variables, data type and the syntax needed to write simple programs—laying the foundation for our journey in coding.
+Next, we attended a peer-to-peer session on the basics of C++ programming. We learned about variables, data type and the syntax needed to write simple programs, laying the foundation for our journey in coding.
 
-After that, Dr. Priya Darshini Ma’am delivered another enlightening lecture on Universal Human Values. She explained that our self and our body are two distinct entities, and that true, lasting happiness cannot be achieved by pursuing only bodily pleasures. She highlighted the difference between excitement and genuine happiness, and spoke about acting according to our natural acceptance—making choices that nurture rather than harm our body and mind. She concluded with thought-provoking insights into the true meaning and ultimate purpose of life.
+After that, Dr. Priya Darshini Ma’am delivered another enlightening lecture on Universal Human Values. She explained that our self and our body are two distinct entities, and that true, lasting happiness cannot be achieved by pursuing only bodily pleasures. She highlighted the difference between excitement and genuine happiness, and spoke about acting according to our natural acceptance, making choices that nurture rather than harm our body and mind. She concluded with thought provoking insights into the true meaning and ultimate purpose of life.
 
 Later, the Causmic Club members introduced us to their work, showcasing their innovations, creative projects and events. They also guided us to explore their website for more information.
 
@@ -91,4 +91,4 @@ The day began with the formation of our ID cards.
 Afterwards, we proceeded to our classrooms, where Dr. Randhir Sir conducted our Maths lecture. He introduced the concept of partial differentiation, explaining its importance with a clear and practical example.
 
 ## Conclusion ( Day 1 to Day 8)
-These first eight days have been a journey of growth, inspiration and new beginnings. Every lecture, interaction, and shared experience has opened doors to knowledge while shaping values and confidence. Surrounded by guidance, encouragement and opportunities. I feel a deep sense of gratitude and excitement for the path ahead. This is not just the start of an academic journey—it is the foundation of a future full of purpose and possibility.
+These first eight days have been a journey of growth, inspiration and new beginnings. Every lecture, interaction, and shared experience has opened doors to knowledge while shaping values and confidence. Surrounded by guidance, encouragement and opportunities. I feel a deep sense of gratitude and excitement for the path ahead. This is not just the start of an academic journey, it is the foundation of a future full of purpose and possibility.
